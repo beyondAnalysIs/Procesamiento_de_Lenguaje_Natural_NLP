@@ -1,0 +1,2 @@
+*.txt filter=lfs diff=lfs merge=lfs -text
+datasets/SBW-vectors-300-min5.txt filter=lfs diff=lfs merge=lfs -text
